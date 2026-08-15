@@ -1,0 +1,93 @@
+# scaffolds	12,483
+Total scaffold length	1,677,409,341
+Average scaffold length	134,375.50
+Scaffold N50	267,263
+Scaffold auN	383,789.25
+Scaffold L50	1,716
+Largest scaffold	4,468,567
+Smallest scaffold	10,000
+# contigs	149,203
+Total contig length	1,606,209,045
+Average contig length	10,765.26
+Contig N50	17,428
+Contig auN	23,590.21
+Contig L50	26,934
+Largest contig	275,281
+Smallest contig	1
+# gaps in scaffolds	136,720
+Total gap length in scaffolds	71,200,296
+Average gap length in scaffolds	520.77
+Gap N50 in scaffolds	1,427
+Gap auN in scaffolds	1,506.50
+Gap L50 in scaffolds	16,186
+Largest gap in scaffolds	5,063
+Smallest gap in scaffolds	1
+Base composition (A:C:G:T)	496,845,340:311,101,256:308,859,686:489,402,763
+GC content %	38.60
+# soft-masked bases	416,430,599
+# segments	149,203
+Total segment length	1,606,209,045
+Average segment length	10,765.26
+# gaps	136,720
+# paths	12,483
+Scaffold N10	835,459
+Scaffold N20	583,657
+Scaffold N30	439,104
+Scaffold N40	343,658
+Scaffold N50	267,263
+Scaffold N60	204,205
+Scaffold N70	149,732
+Scaffold N80	103,383
+Scaffold N90	60,204
+Scaffold N100	10,000
+Scaffold L10	149
+Scaffold L20	393
+Scaffold L30	728
+Scaffold L40	1,162
+Scaffold L50	1,716
+Scaffold L60	2,435
+Scaffold L70	3,397
+Scaffold L80	4,739
+Scaffold L90	6,843
+Scaffold L100	12,483
+Contig N10	48,040
+Contig N20	34,047
+Contig N30	26,522
+Contig N40	21,415
+Contig N50	17,428
+Contig N60	14,036
+Contig N70	11,070
+Contig N80	8,231
+Contig N90	5,334
+Contig N100	1
+Contig L10	2,412
+Contig L20	6,465
+Contig L30	11,841
+Contig L40	18,603
+Contig L50	26,934
+Contig L60	37,216
+Contig L70	50,094
+Contig L80	66,846
+Contig L90	90,817
+Contig L100	149,203
+Gap N10	2,983
+Gap N20	2,500
+Gap N30	2,077
+Gap N40	1,741
+Gap N50	1,427
+Gap N60	1,116
+Gap N70	808
+Gap N80	472
+Gap N90	168
+Gap N100	1
+Gap L10	2,179
+Gap L20	4,788
+Gap L30	7,930
+Gap L40	11,677
+Gap L50	16,186
+Gap L60	21,828
+Gap L70	29,296
+Gap L80	40,588
+Gap L90	68,280
+Gap L100	136,720
+
