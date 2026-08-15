@@ -15,21 +15,21 @@ To describe the structure of a genome assembly using basic statistics, sequence-
 - File: GCA_009793145.1_ASM979314v1_genomic.fna.gz
 - Renamed in Galaxy to: **Cynopterus_brachyotis_genome_original.fna.gz**
   
-# Part 2 — Assembly Statistics*
+# Part 2 — Assembly Statistics
 - Tool: *gfastats*
 - Tool mode: Summary statistics generation
 - Report mode: Genome assembly statistics (--nstar-report)
 - Input file: **1: Cynopterus_brachyotis_genome_original.fna.gz**
 - Output renamed to: **Cynopterus_brachyotis_Assembly_Statistics_gfastats**
 
-# Part 3 — Sequence-Length Structure*
+# Part 3 — Sequence-Length Structure
 - Tool: *Compute sequence length*
 - Input file: **1: Cynopterus_brachyotis_genome_original.fna.gz**
 - Setting: "Strip fasta description from header?" = Yes
 - Output: **Compute sequence length on dataset 1**
 - Sorted using Galaxy's *Sort* tool (column 2, descending) to identify the top 5 longest sequences
 
-# Part 4 — Length-Filtering Experiment*
+# Part 4 — Length-Filtering Experiment
 - Step 1: Tool: *Filter sequences by length*
   - Input file: **1: Cynopterus_brachyotis_genome_original.fna.gz**
   - Parameter: minimum length = 10,000 bp (10 kb)
@@ -38,7 +38,7 @@ To describe the structure of a genome assembly using basic statistics, sequence-
   - Then re-ran *gfastats* (same settings as Part 2) using input file: **5: Cynopterus_brachyotis_filtered_10kb**
   - Output renamed to: **Cynopterus_brachyotis_Filtered_10kb_Assembly_Statistics_gfastats**
 
-# Part 5 — Small ORF Exploration*
+# Part 5 — Small ORF Exploration
 - Step 1: Tool: *Filter sequences by ID from a tabular file*
   - Input file: **1: Cynopterus_brachyotis_genome_original.fna.gz**
   - Filter using ID list from: "provided list"
