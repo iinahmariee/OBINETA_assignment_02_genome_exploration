@@ -35,7 +35,7 @@ To describe the structure of a genome assembly using basic statistics, sequence-
   - Parameter: minimum length = 10,000 bp (10 kb)
   - Output renamed to: **Cynopterus_brachyotis_filtered_10kb**
 - Step 2
-  - Then re-ran *gfastats* (same settings as Part 2) using input file: **5: Cynopterus_brachyotis_filtered_10kb**
+  - Re-ran *gfastats* (same settings as Part 2) using input file: **5: Cynopterus_brachyotis_filtered_10kb**
   - Output renamed to: **Cynopterus_brachyotis_Filtered_10kb_Assembly_Statistics_gfastats**
 
 # Part 5 — Small ORF Exploration
