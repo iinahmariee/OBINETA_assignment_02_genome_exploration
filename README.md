@@ -1,4 +1,4 @@
-# OBIÑETA_assignment_02_genome_exploration
+# OBIÑETA_assignment_02_genome_exploratio
 # Name: Obiñeta, Inah Marie A.
 
 # Activity Title: Basic Genome Structure and Sequence Exploration Using Galaxy
