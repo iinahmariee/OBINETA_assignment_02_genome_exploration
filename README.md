@@ -54,6 +54,6 @@ To describe the structure of a genome assembly using basic statistics, sequence-
   - Output: **Cynopterus_brachyotis_getorf.fasta**
 
  # Short Interpretation
-The *Cynopterus brachyotis* assembly is highly fragmented — spread across 48,006 scaffolds with a maximum length of only 4.5 Mb, far short         of a full chromosome. Short sequences dominate by count (~74%) but contribute little to total genome size (~4.6%), showing that most          real genetic content sits in a smaller set of longer scaffolds. GC content (~39%) falls within the normal mammalian range. The ORF            exploration confirmed that predicted open reading frames are common but not proof of real genes without further evidence.
+The *Cynopterus brachyotis* assembly is highly fragmented — spread across 48,006 scaffolds with a maximum length of only 4.5 Mb, far short           of a full chromosome. Short sequences dominate by count of about 74% but contribute little to total genome size (4.6%), showing that           most real genetic content sits in a smaller set of longer scaffolds. GC content (39%) falls within the normal mammalian range. The ORF         exploration confirmed that predicted open reading frames are common but not proof of real genes without further evidence.
 
   
